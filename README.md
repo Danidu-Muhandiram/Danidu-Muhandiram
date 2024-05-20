@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danidu Muhandiram</h1>
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=0086F7&size=32&center=true&vCenter=true&width=600&height=50&lines=An+enthusiastic+IT+Undergraduate;Shaping+the+future+of+technology;Line+by+line+💻😁;"alt="Headline"/> 
+    </div>
 <h3 align="center">I'm Danidu Muhandiram, an enthusiastic IT undergraduate, shaping the future of technology, line by line 💻😁</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danidu-muhandiram" alt="danidu-muhandiram" /></a> </p>
