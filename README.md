@@ -25,6 +25,19 @@
   </div>
 </p>
 
+<h2> <em>About Me</em></h2>
+
+<img width="55%" align="right" alt="Github" src="" />
+
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning JavaScript
+- 🧠 I have a strong interest in artificial intelligence
+- 🤝 I’m looking to collaborate on any open-source contributions
+- 🎨 I’m also a contributor at Adobe Stock
+- 💬 Ask me about HTML,CSS,C
+- 😁 Fun fact: coding + sleeping > you
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danidu-muhandiram" alt="danidu-muhandiram" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, CSS**
