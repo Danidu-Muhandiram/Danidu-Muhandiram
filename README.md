@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Danidu-Muhandiram/Danidu-Muhandiram/blob/main/px.jpg" alt="Header Image" width: 100%; height: auto;>
+<img src="https://github.com/Danidu-Muhandiram/Danidu-Muhandiram/blob/main/px.jpg" alt="Header Image"style="height: 150px; width: 600px;" >
 </div>
 <h1>
   <div align="center"> Hi there, welcome to my GitHub profile! 👋<br>I'm Danidu Muhandiram
