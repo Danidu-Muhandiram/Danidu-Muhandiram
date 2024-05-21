@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://github.com/Danidu-Muhandiram/Danidu-Muhandiram/blob/main/px.jpg" alt="Header Image" width: 100%; height: auto;>
+</div>
 <h1>
   <div align="center"> Hi there, welcome to my GitHub profile! 👋<br>I'm Danidu Muhandiram
   </div>
