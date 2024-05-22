@@ -27,7 +27,8 @@
 
 <h2> <em>About Me</em></h2>
 
-<img width="55%" align="right" alt="Github" src="" />
+<img width="480" height="250" frameBorder="0" align="right" alt="Person typing on a computer" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<br>
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning JavaScript
@@ -37,15 +38,21 @@
 - 💬 Ask me about HTML,CSS,C
 - 😁 Fun fact: coding + sleeping > you
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danidu-muhandiram" alt="danidu-muhandiram" /></a> </p>
-
-- 🌱 I’m currently learning **JavaScript, CSS**
-
-<h3 align="left">Connect with me:</h3>
+<h2><em>Languages and Tools</em></h2>
 <p align="left">
-<a href="https://linkedin.com/in/danidu-muhandiram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danidu-muhandiram" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,css,discord,github,html,vscode,photoshop&perline=14" width="300" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<h2><em>GitHub Stats</em></h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danidu-Muhandiram&show_icons=true&theme=tokyonight" style="width: 49%; height: 180px; margin-right: 1%;" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Danidu-Muhandiram&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="width: 49%; height: 180px;" />
+</div>
+
+
+
+
+
