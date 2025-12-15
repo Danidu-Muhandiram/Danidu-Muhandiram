@@ -11,6 +11,8 @@
         <a href="https://linkedin.com/in/Danidu-Muhandiram"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="mailto:muhandiramdanidu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
         <a href="https://twitter.com/DaniduHasaranga"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+        <a align="left"> <img src="https://komarev.com/ghpvc/?username=Danidu-Muhandiram&label=Profile%20views&color=0e75b6&style=flat" alt="Danidu-Muhandiram" /></a> 
+
     </div>
 </h1>
 
@@ -54,3 +56,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Danidu-Muhandiram&show_icons=true&theme=gotham" style="width: 49%; height: 180px; margin-right: 1%;" />
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Danidu-Muhandiram&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" style="width: 49%; height: 180px;" />
 </div>
+
