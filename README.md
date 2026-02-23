@@ -3,51 +3,73 @@
 </div>
 
 <h1>
-    <div align="center"> Hi there, welcome to my GitHub profile! 👋<br>I'm Danidu Muhandiram </div>
+    <div align="center"> Hi there, 👋 I'm Danidu Muhandiram </div>
     <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=0086F7&size=28&center=true&vCenter=true&width=600&height=50&lines=An+enthusiastic+IT+Undergraduate;Shaping+the+future+of+technology;Line+by+line+💻😁;" alt="Headline"/> 
+        <!-- <img src="https://readme-typing-svg.herokuapp.com?color=0086F7&size=28&center=true&vCenter=true&width=600&height=50&lines=An+enthusiastic+IT+Undergraduate;Shaping+the+future+of+technology;Line+by+line+💻😁;" alt="Headline"/> -->
     </div>
+<br>
     <div align="center">
-        <a href="https://linkedin.com/in/Danidu-Muhandiram"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="mailto:muhandiramdanidu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
-        <a href="https://twitter.com/DaniduHasaranga"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-        <a align="left"> <img src="https://komarev.com/ghpvc/?username=Danidu-Muhandiram&label=Profile%20views&color=0e75b6&style=flat" alt="Danidu-Muhandiram" /></a> 
+        <!-- Social & Contact Badges -->
+<p align="center">
+    <a href="https://linkedin.com/in/Danidu-Muhandiram">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:muhandiramdanidu@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://yourwebsite.com/contact">
+        <img src="https://img.shields.io/badge/Contact%20Me-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Me" />
+    </a>
+    <a>
+        <img src="https://komarev.com/ghpvc/?username=Danidu-Muhandiram&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Danidu-Muhandiram" />
+    </a>
+    
+</p>   
     </div>
 </h1>
 
 <p align="center">
     <em>
-        Hello! I'm <b>Danidu Muhandiram</b>, a passionate <b>self-learner</b> and <b>undergraduate</b> student at SLIIT Campus, Sri Lanka. </a><br>
-        Fascinated by <b>software development</b> and eager to explore <b>new technologies</b>.
-        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">Always seeking opportunities to <b>grow and expand my skills</b>
-        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> Excited to <b>learn and contribute</b> to the world of technology!
-        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
-    </em> 
-    <br>
+        Hello! I'm <b>Danidu Muhandiram</b>, a passionate <b>self-learner</b> and <b>undergraduate</b> student at SLIIT Campus, Sri Lanka.<br>
+        Fascinated by <b>software development</b> and always eager to explore <b>new technologies</b>
+        <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">.<br>
+        Constantly seeking opportunities to <b>grow and expand my skills</b> -->
+        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    </em>
+    <br><br>
     <div align="center">
-        <h3><b><i>"Code, Learn, Innovate, Repeat! 🚀"</i></b></h3>
+        <h3><b><i>"Simple things should be simple. Complex things should be possible."</i></b></h3>
     </div>
 </p>
 
-<h2><em>About Me</em></h2>
 
-<img width="480" height="250" frameBorder="0" align="right" alt="Person typing on a computer" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-<br>
 
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently learning JavaScript
-- 🧠 I have a strong interest in artificial intelligence
-- 🤝 I’m looking to collaborate on any open-source contributions
-- 🎨 I’m also a contributor at Adobe Stock
-- 💬 Ask me about HTML, CSS, C
-- 😁 Fun fact: coding + sleeping > you
+<table align="center" style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td valign="top" style="padding-right: 40px;">
+      <h2><em>About Me</em></h2>
+      <ul style="margin-top: 10px;">
+        <li>😄 Pronouns: He/Him</li>
+        <li>🌱 I’m currently learning <b>Python</b></li>
+        <li>🧠 Strong interest in <b>Artificial Intelligence & Machine Learning</b></li>
+        <li>🤝 Looking to collaborate on open-source projects</li>
+        <li>🎨 Contributor at <b>Adobe Stock & Zedge</b></li>
+      </ul>
+    </td>
+    <td valign="top" style="padding-left: 40px;">
+      <h2><em>Languages & Tools</em></h2>
+      <div style="margin-top: 10px;">
+        <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,express,figma,github,html,java,mongodb,mysql,nextjs,nodejs,postman,javascript,bootstrap,androidstudio,kotlin,r,py,react,tailwind,ts,vscode&perline=14" />
+  </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<h2><em>Languages and Tools</em></h2>
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,c,css,discord,github,html,vscode,photoshop&perline=14" width="300" />
-    </a>
-</p>
 
 <h2><em>GitHub Stats</em></h2>
 
