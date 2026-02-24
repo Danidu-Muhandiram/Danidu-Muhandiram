@@ -10,22 +10,34 @@
 <br>
     <div align="center">
         <!-- Social & Contact Badges -->
+<!-- Top Badges Row -->
 <p align="center">
-    <a href="https://linkedin.com/in/Danidu-Muhandiram">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <a href="https://linkedin.com/in/Danidu-Muhandiram" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:muhandiramdanidu@gmail.com">
+    <a href="mailto:muhandiramdanidu@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://yourwebsite.com/contact">
-        <img src="https://img.shields.io/badge/Contact%20Me-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Me" />
+    <a href="https://yourwebsite.com/contact" target="_blank">
+        <img src="https://img.shields.io/badge/Contact%20Me-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Me" />
     </a>
     <a>
-        <img src="https://komarev.com/ghpvc/?username=Danidu-Muhandiram&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Danidu-Muhandiram" />
+        <img src="https://komarev.com/ghpvc/?username=Danidu-Muhandiram&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     </a>
+</p>
+
+<!-- WakaTime Badges Row -->
+<p align="center">
+    <a href="https://wakatime.com/@b586e398-876f-4711-ba14-ffbfc5b50bd9" target="_blank">
+        <img src="https://wakatime.com/badge/user/b586e398-876f-4711-ba14-ffbfc5b50bd9.svg?style=for-the-badge" alt="WakaTime Total Coding Stats" style="height:24px;" />
+    </a>
+    <a href="https://wakatime.com/@b586e398-876f-4711-ba14-ffbfc5b50bd9" target="_blank">
+        <img src="https://img.shields.io/badge/Tracking-Since%2016%20Dec%202025-F88A22?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime Since Dec 16, 2025" style="height:24px;" />
+    </a>
+</p>
     
 </p>   
     </div>
