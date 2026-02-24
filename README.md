@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://yourportfolio.com" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/Portfolio-1bb500?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:muhandiramdanidu@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
