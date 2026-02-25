@@ -59,28 +59,24 @@
 
 
 
-<table align="center" style="width:100%; border-collapse: collapse;">
-  <tr>
-    <td valign="top" style="padding-right: 40px;">
-      <h2><em>About Me</em></h2>
-      <ul style="margin-top: 10px;">
-        <li>😄 Pronouns: He/Him</li>
-        <li>🌱 I’m currently learning <b>Python</b></li>
-        <li>🧠 Strong interest in <b>Artificial Intelligence & Machine Learning</b></li>
-        <li>🤝 Looking to collaborate on open-source projects</li>
-        <li>🎨 Contributor at <b>Adobe Stock & Zedge</b></li>
-      </ul>
-    </td>
-    <td valign="top" style="padding-left: 40px;">
-      <h2><em>Languages & Tools</em></h2>
-      <div style="margin-top: 10px;">
-        <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,express,figma,github,html,java,mongodb,mysql,nextjs,nodejs,postman,javascript,bootstrap,androidstudio,kotlin,r,py,react,tailwind,ts,vscode&perline=14" />
+<h2><em>About Me</em></h2>
+
+<ul>
+  <li>😄 Pronouns: He/Him</li>
+  <li>🌱 Currently learning <b>Python</b></li>
+  <li>🧠 Strong interest in <b>Artificial Intelligence & Machine Learning</b></li>
+  <li>🤝 Open to collaborating on open-source projects</li>
+  <li>🎨 Contributor at <b>Adobe Stock & Zedge</b></li>
+</ul>
+
+
+<h2><em>Languages & Tools</em></h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,express,figma,github,html,java,mongodb,mysql,nextjs,nodejs,postman,javascript,bootstrap,androidstudio,kotlin,r,py,react,tailwind,ts,vscode&perline=8" />
   </a>
-      </div>
-    </td>
-  </tr>
-</table>
+</p>
 
 
 <h2><em>GitHub Stats</em></h2>
@@ -91,107 +87,20 @@
 </div>
 <br>
 
-<table align="center" style="width:100%; border-collapse: collapse;">
-  <tr>
-    <td valign="top" style="padding-right: 40px;">
-      <h2><em>🔹 Live Tools</em></h2>
-      <p>These tools are live and might help with your daily tasks.</p>
-      <table style="width:100%; border-collapse: collapse;">
-        <tr>
-          <th align="left">Tool</th>
-          <th align="center">Repo</th>
-          <th align="center">Live</th>
-        </tr>
-        <tr>
-          <td>Keyword Translator</td>
-          <td align="center">
-            <a href="https://github.com/yourusername/keyword-translator" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-Visit-808080?style=for-the-badge&logo=github&logoColor=white" alt="Keyword Translator Repo" />
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://yourtool.com/keyword-translator" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Visit-FF6F61?style=for-the-badge" alt="Keyword Translator Live" />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>QR Code Generator</td>
-          <td align="center">
-            <a href="https://github.com/yourusername/qr-generator" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-Visit-808080?style=for-the-badge&logo=github&logoColor=white" alt="QR Generator Repo" />
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://yourtool.com/qr-generator" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Visit-6FCF97?style=for-the-badge" alt="QR Generator Live" />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>Text to Speech</td>
-          <td align="center">
-            <a href="https://github.com/yourusername/text-to-speech" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-Visit-808080?style=for-the-badge&logo=github&logoColor=white" alt="Text to Speech Repo" />
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://yourtool.com/text-to-speech" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Visit-5DADE2?style=for-the-badge" alt="Text to Speech Live" />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td valign="top" style="padding-left: 40px;">
-      <h2><em>🌐 Live Web Applications</em></h2>
-      <p>These web apps are live and fully functional.</p>
-      <table style="width:100%; border-collapse: collapse;">
-        <tr>
-          <th align="left">App</th>
-          <th align="center">Repo</th>
-          <th align="center">Live</th>
-        </tr>
-        <tr>
-          <td>Portfolio Website</td>
-          <td align="center">
-            <a href="https://github.com/yourusername/portfolio-website" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-Visit-808080?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repo" />
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://yourportfolio.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Visit-F88A22?style=for-the-badge" alt="Portfolio Live" />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>Online Teacher Platform</td>
-          <td align="center">
-            <a href="https://github.com/yourusername/teacher-platform" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-Visit-808080?style=for-the-badge&logo=github&logoColor=white" alt="Teacher Platform Repo" />
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://yourapp.com/teacher-platform" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Visit-9B59B6?style=for-the-badge" alt="Teacher Platform Live" />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>Weather Dashboard</td>
-          <td align="center">
-            <a href="https://github.com/yourusername/weather-dashboard" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-Visit-808080?style=for-the-badge&logo=github&logoColor=white" alt="Weather Dashboard Repo" />
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://yourapp.com/weather" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Visit-3498DB?style=for-the-badge" alt="Weather Dashboard Live" />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<h2><em>Live Projects</em></h2>
+<p>These tools and web applications are live and may help with your daily tasks.</p>
+
+<h3>Live Tools</h3>
+
+| Tool | Description | Repo | Live |
+|------|-------------|------|------|
+| Keyword Translator | Quickly translate keywords between multiple languages | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/keyword-translator) | [![Live](https://img.shields.io/badge/Live-FF6F61?style=for-the-badge)](https://yourtool.com/keyword-translator) |
+| QR Code Generator | Generate custom QR codes instantly for URLs or text | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/qr-generator) | [![Live](https://img.shields.io/badge/Live-6FCF97?style=for-the-badge)](https://yourtool.com/qr-generator) |
+
+
+<h3>Live Web Applications</h3>
+
+| App | Description | Repo | Live |
+|-----|-------------|------|------|
+| Portfolio Website | Personal portfolio showcasing projects and skills | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/portfolio-website) | [![Live](https://img.shields.io/badge/Live-F88A22?style=for-the-badge)](https://yourportfolio.com) |
+| Online Teacher Platform | Web platform built for educators and online training | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/teacher-platform) | [![Live](https://img.shields.io/badge/Live-9B59B6?style=for-the-badge)](https://yourapp.com/teacher-platform) |
