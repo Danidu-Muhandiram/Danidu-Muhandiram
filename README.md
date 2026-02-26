@@ -82,8 +82,8 @@
 <h2><em>GitHub Stats</em></h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Danidu-Muhandiram&show_icons=true&theme=gotham" style="width: 49%; height: 180px; margin-right: 1%;" />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Danidu-Muhandiram&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" style="width: 49%; height: 180px;" />
+    <img src="./profile/stats.svg" style="width: 49%; height: 180px; margin-right: 1%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Danidu-Muhandiram&theme=gotham" style="width: 49%; height: 180px;" />
 </div>
 <br>
 
