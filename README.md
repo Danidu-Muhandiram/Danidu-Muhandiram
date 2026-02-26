@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://github.com/Danidu-Muhandiram/Danidu-Muhandiram/blob/main/px.jpg" alt="Header Image" style="height: 150px; width: 600px;">
 </div>
-
+  
 <h1>
     <div align="center"> Hi there, 👋 I'm Danidu Muhandiram </div>
     <div align="center">
@@ -82,7 +82,8 @@
 <h2><em>GitHub Stats</em></h2>
 
 <div align="center">
-    <img src="./profile/stats.svg" style="width: 49%; height: 180px; margin-right: 1%;" />
+    <!--<img src="./profile/stats.svg" style="width: 49%; height: 180px; margin-right: 1%;" />-->
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Danidu-Muhandiram&theme=dark&show_icons=true&count_private=true" style="width: 49%; height: 180px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Danidu-Muhandiram&theme=gotham" style="width: 49%; height: 180px;" />
 </div>
 <br>
@@ -94,13 +95,15 @@
 
 | Tool | Description | Repo | Live |
 |------|-------------|------|------|
-| Keyword Translator | Quickly translate keywords between multiple languages | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/keyword-translator) | [![Live](https://img.shields.io/badge/Live-FF6F61?style=for-the-badge)](https://yourtool.com/keyword-translator) |
-| QR Code Generator | Generate custom QR codes instantly for URLs or text | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/qr-generator) | [![Live](https://img.shields.io/badge/Live-6FCF97?style=for-the-badge)](https://yourtool.com/qr-generator) |
+| Keyword Translator | Translate keywords in batches, refine them with tag-based editing, and copy results instantly | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danidu-Muhandiram/Keyword-Translator) | [![Live](https://img.shields.io/badge/Live-FF6F61?style=for-the-badge)](https://keyword-translator.vercel.app/) |
+| UniTimetable | Convert the official SLIIT FET-generated timetable into a clean, colorful, and student friendly version - in just one click | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danidu-Muhandiram/UniTimetable) | [![Live](https://img.shields.io/badge/Live-FF6F61?style=for-the-badge)](https://universitytimetable.vercel.app/) |
+| ImageMatch | Desktop overlay image viewer for fast, manual similarity checks while browsing stock sites or working in any application. | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danidu-Muhandiram/ImageMatch) | [![Live](https://img.shields.io/badge/Live-FF6F61?style=for-the-badge)](https://github.com/Danidu-Muhandiram/ImageMatch) |
+<!--| QR Code Generator | Under | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/qr-generator) | [![Live](https://img.shields.io/badge/Live-6FCF97?style=for-the-badge)](https://yourtool.com/qr-generator) |-->
 
 
 <h3>Live Web Applications</h3>
 
 | App | Description | Repo | Live |
 |-----|-------------|------|------|
-| Portfolio Website | Personal portfolio showcasing projects and skills | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/portfolio-website) | [![Live](https://img.shields.io/badge/Live-F88A22?style=for-the-badge)](https://yourportfolio.com) |
-| Online Teacher Platform | Web platform built for educators and online training | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/teacher-platform) | [![Live](https://img.shields.io/badge/Live-9B59B6?style=for-the-badge)](https://yourapp.com/teacher-platform) |
+| Palo | Accounting Firm Website | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danidu-Muhandiram/Accounting-Firm-Website) | [![Live](https://img.shields.io/badge/Live-FF6F61?style=for-the-badge)](https://paloaccounting.vercel.app/) |
+| NOIR ATLAS | My personal online art gallery where I share a curated collection of original AI-generated artworks and illustrations | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danidu-Muhandiram/Art-Gallery) | [![Live](https://img.shields.io/badge/Live-FF6F61?style=for-the-badge)](https://noiratlas.vercel.app/) |
