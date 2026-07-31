@@ -69,14 +69,40 @@
   <li>🎨 Contributor at <b>Adobe Stock & Zedge</b></li>
 </ul>
 
-
 <h2><em>Languages & Tools</em></h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,express,figma,github,html,java,mongodb,mysql,nextjs,nodejs,postman,javascript,bootstrap,androidstudio,kotlin,r,py,react,tailwind,ts,vscode&perline=8" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="150"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,r,kotlin&perline=8" />
+    </td>
+  </tr>
+  <tr>
+    <td width="150"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&perline=8" />
+    </td>
+  </tr>
+  <tr>
+    <td width="150"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=8" />
+    </td>
+  </tr>
+  <tr>
+    <td width="150"><b>Data & Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,azure,docker,githubactions&perline=8" />
+    </td>
+  </tr>
+  <tr>
+    <td width="150"><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven,vite,npm,figma&perline=8" />
+    </td>
+  </tr>
+</table>
 
 
 <h2><em>GitHub Stats</em></h2>
@@ -107,3 +133,5 @@
 |-----|-------------|------|------|
 | Palo | Accounting Firm Website | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danidu-Muhandiram/Accounting-Firm-Website) | [![Live](https://img.shields.io/badge/Live-FF6F61?style=for-the-badge)](https://paloaccounting.vercel.app/) |
 | NOIR ATLAS | My personal online art gallery where I share a curated collection of original AI-generated artworks and illustrations | [![Repo](https://img.shields.io/badge/Repo-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danidu-Muhandiram/Art-Gallery) | [![Live](https://img.shields.io/badge/Live-FF6F61?style=for-the-badge)](https://noiratlas.vercel.app/) |
+
+
