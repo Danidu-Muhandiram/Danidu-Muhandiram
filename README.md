@@ -12,10 +12,10 @@
         <!-- Social & Contact Badges -->
 <!-- Top Badges Row -->
 <p align="center">
-    <a href="https://linkedin.com/in/Danidu-Muhandiram" target="_blank">
+    <a href="https://www.linkedin.com/in/danidu-muhandiram-4a0b442a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://yourportfolio.com" target="_blank">
+    <a href="https://danidumuhandiram.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-1bb500?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:muhandiramdanidu@gmail.com" target="_blank">
